@@ -13,7 +13,7 @@
 <img src = "./LegendaryThief/img/03.PNG" width = "50%" height = "50%" title = "px Set" alt = "LT3"></img><img src = "./LegendaryThief/img/04.PNG" width = "50%" height = "50%" title = "px Set" alt = "LT4"></img>
 <img src = "./LegendaryThief/img/05.PNG" width = "50%" height = "50%" title = "px Set" alt = "LT5"></img>
 
-게임 플레이 영상 : 
+게임 플레이 영상 : https://youtu.be/CS2kAQpRNsA
 
 **게임 소개**
 > 전 세계에 퍼져있는 유물을 훔쳐 전설의 대도둑이 되는 스토리를 가지고 있습니다.     
